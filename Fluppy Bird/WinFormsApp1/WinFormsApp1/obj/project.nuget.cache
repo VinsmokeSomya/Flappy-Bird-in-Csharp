@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "uN59kOvljSRt8G3iUzxnF2Edw9gO+7JqdVp4u7Dcw73hX0O/GloDUmD8hvKgVcUWHe/YClxfxU+jrRNmHebPIA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\soman\\Downloads\\C-Sharp-Fluppy-Bird-Game-main\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\soman\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\soman\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\soman\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\soman\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
